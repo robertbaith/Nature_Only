@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/robertbaith/seenow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robertbaith/seenow/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="https://topwellnessmart.com/ForNaturesOnlyCBD" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="195" data-original-width="500" height="125" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJoCnVWhQIwIwtYBtgZFq6JFNpwVXSHUi23D75kBo-2kJ7fete2jiy_QzKL9WKF0uXslmj9hPfnDfsCTvSF_fsutLwu8wcuHDb1O9pQ7WIGpPHVysdaBiV3pF5kZ1zb9CGx3Qyz6qEX-hnvgvX0mVih42HOYQEW9jEs3SzKEp3H91rRtHdp2my7_YC0A/s320/Screenshot%202022-03-26%20at%2015-10-34%20https%20__smilzspecial.github.io.png" width="320"></a>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://topwellnessmart.com/ForNaturesOnlyCBD" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="300" data-original-width="300" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi9-T2RUxevWSbSmJGycHMvLEef7pli2ewFmUr9eYIInaSpKjNiYpBWLyNkrI1dy4pGoHHIhKc2RxBorRgQHgIzkDR_XNRHzrjPsWoCKanMeeTGiLdeyYUDPW4cHBRyFApQgk55uh6YOQrLK-WkBaM2WwCHwKCT5szBB9-oyIecXZbEJu2pU6lhKEFNA/s1600/Natures-Only-CBD-Gummies-Ingredients-300x300.jpg" width="300"></a></div>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://topwellnessmart.com/ForNaturesOnlyCBD" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="99" data-original-width="711" height="45" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlon1aWjZe7APzOoM3tEuB0DdZLBGi72TGvcQ9Q5S6X-8OYhjtnBPlHTS4xL1ehMvfrIADkEHeM6Uk_tKp8a0GUrR8-_dOti-MXEiEJoAeJOXipQ2R6tcmlY3kaUYLK30bsJMiiriSryT9dd30nmEIu7pb_J00uzrjuJTshTS9IHPmPgr3vOlcO4D-1w/s320/Screenshot%202022-03-26%20at%2015-10-41%20https%20__smilzspecial.github.io.png" width="320"></a></div>
+<span style="margin-left: auto; margin-right: auto;"><a href="https://topwellnessmart.com/ForNaturesOnlyCBD"><img border="0" data-original-height="265" data-original-width="724" height="117" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoHKwjec0U7J5BPIX5SM_glQ5fDi83J1HXnL8ozCN5xeAQ_NO8agj6c9ApllzwlpJY_qmddmheZ3YYHcgIva6bJW1SMeXq8pNTkDe1gdv178TLawNwwrX0dGiq7i161vQQt5ygNVnkY-VTSmLo6eH4mInxdSFzmx_0bU3P5HcBOkWfqISLIb4I9qrJvg/s320/Screenshot%202022-03-26%20at%2015-10-54%20https%20__smilzspecial.github.io.png" width="320"></a></span>
